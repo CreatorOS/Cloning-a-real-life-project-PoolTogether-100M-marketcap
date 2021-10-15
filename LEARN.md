@@ -29,7 +29,7 @@ Fire up a terminal and get started!
 
 ```
 
-~/ $ git clone [https://github.com/pooltogether/pooltogether-pool-contracts.git](https://github.com/pooltogether/pooltogether-pool-contracts.git)
+~/ $ git clone https://github.com/pooltogether/pooltogether-pool-contracts.git
 
 ~/ $ cd pooltogether-pool-contracts
 
